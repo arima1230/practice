@@ -12,7 +12,7 @@ abstract public class Animal {
 			System.out.println("歩き回っています");
 		}else {
 			System.out.println("寝そべっています");
-			//練習メッセージ
+			//練習メッセージnakautinorika
 		}
 	}
 
