@@ -18,7 +18,7 @@ public class Animal {
 			System.out.println("それは鳥です。");
 			return true;
 		}else {
-			System.out.println("それは4本足の動物です。");//dev2
+			System.out.println("それは4本足の動物です。");//dev2test
 			return false;
 		}
 	}
